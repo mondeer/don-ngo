@@ -58,22 +58,22 @@
 		<div class="gtco-container">
 			<div class="row">
 				<div class="col-md-12 text-right gtco-contact">
-					<ul class="">
+					<!-- <ul class="">
 						<li><a href="#"><i class="ti-mobile"></i> +1 (0)123 456 7889 </a></li>
 						<li><a href="http://twitter.com/gettemplatesco"><i class="ti-twitter-alt"></i> </a></li>
 						<li><a href="#"><i class="icon-mail2"></i></a></li>
 						<li><a href="#"><i class="ti-facebook"></i></a></li>
-					</ul>
+					</ul> -->
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-sm-4 col-xs-12">
-					<div id="gtco-logo"><a href="index.html">Aesthetic <em>.</em></a></div>
+					<div id="gtco-logo"><a href="/"><img src="logo.png" width="150px" alt=""></a></div>
 				</div>
 				<div class="col-xs-8 text-right menu-1">
 					<ul>
-						<li class="active"><a href="index.html">Home</a></li>
-						<li><a href="about.html">About</a></li>
+						<li class="active"><a href="/">Home</a></li>
+						<li><a href="/about">About</a></li>
 						<li class="has-dropdown">
 							<a href="services.html">Services</a>
 							<ul class="dropdown">
