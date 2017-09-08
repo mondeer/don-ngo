@@ -3,7 +3,7 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Aesthetic &mdash; Free Website Template, Free HTML5 Template by gettemplates.co</title>
+	<title>Odessey</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Free HTML5 Website Template by gettemplates.co" />
 	<meta name="keywords" content="free website templates, free html5, free template, free bootstrap, free website template, html5, css3, mobile first, responsive" />
@@ -108,8 +108,8 @@
 				<div class="col-md-12 col-md-offset-0 text-left">
 					<div class="display-t">
 						<div class="display-tc">
-							<h1 class="animate-box" data-animate-effect="fadeInUp">Your Business To The Next Level</h1>
-							<h2 class="animate-box" data-animate-effect="fadeInUp">Free HTML5 Bootstrap Templates Made <em>by</em> <a href="http://gettemplates.co/" target="_blank">GetTemplates.co</a></h2>
+							<h1 class="animate-box" data-animate-effect="fadeInUp">Odessey</h1>
+							<h2 class="animate-box" data-animate-effect="fadeInUp">welcome all <em>by</em> <a href="http://gettemplates.co/" target="_blank">reklaw</a></h2>
 							<p class="animate-box" data-animate-effect="fadeInUp"><a href="#" class="btn btn-white btn-lg btn-outline">Get In Touch</a></p>
 						</div>
 					</div>

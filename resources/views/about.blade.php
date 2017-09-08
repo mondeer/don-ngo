@@ -67,8 +67,8 @@
       <div class="col-lg-4 col-md-4 col-sm-6 animate-box" data-animate-effect="fadeIn">
         <div class="gtco-staff">
           <img src="images/person_1.jpg" alt="Free HTML5 Templates by gettemplates.co">
-          <h3>Jean Smith</h3>
-          <strong class="role">Web Designer</strong>
+          <h3>Philip Munyao</h3>
+          <strong class="role">Chairman</strong>
           <p>Quos quia provident consequuntur culpa facere ratione maxime commodi voluptates id repellat velit eaque aspernatur expedita. Possimus itaque adipisci.</p>
           <ul class="gtco-social-icons">
             <li><a href="#"><i class="icon-facebook"></i></a></li>
@@ -82,8 +82,8 @@
       <div class="col-lg-4 col-md-4 col-sm-6 animate-box" data-animate-effect="fadeIn">
         <div class="gtco-staff">
           <img src="images/person_2.jpg" alt="Free HTML5 Templates by gettemplates.co">
-          <h3>Hush Raven</h3>
-          <strong class="role">Front-end Developer</strong>
+          <h3>Justus Lavi Mwololo</h3>
+          <strong class="role">Secretary</strong>
           <p>Quos quia provident consequuntur culpa facere ratione maxime commodi voluptates id repellat velit eaque aspernatur expedita. Possimus itaque adipisci.</p>
           <ul class="gtco-social-icons">
             <li><a href="#"><i class="icon-facebook"></i></a></li>
@@ -98,8 +98,8 @@
       <div class="col-lg-4 col-md-4 col-sm-6 animate-box" data-animate-effect="fadeIn">
         <div class="gtco-staff">
           <img src="images/person_3.jpg" alt="Free HTML5 Templates by gettemplates.co">
-          <h3>Alex King</h3>
-          <strong class="role">Back-end Developer</strong>
+          <h3>Hellen Nafuna</h3>
+          <strong class="role">Treasurer</strong>
           <p>Quos quia provident consequuntur culpa facere ratione maxime commodi voluptates id repellat velit eaque aspernatur expedita. Possimus itaque adipisci.</p>
           <ul class="gtco-social-icons">
             <li><a href="#"><i class="icon-facebook"></i></a></li>
@@ -115,8 +115,8 @@
       <div class="col-lg-4 col-md-4 col-sm-6 animate-box" data-animate-effect="fadeIn">
         <div class="gtco-staff">
           <img src="images/person_1.jpg" alt="Free HTML5 Templates by gettemplates.co">
-          <h3>Jean Smith</h3>
-          <strong class="role">Web Designer</strong>
+          <h3>Miriam Mwololo</h3>
+          <strong class="role">Member</strong>
           <p>Quos quia provident consequuntur culpa facere ratione maxime commodi voluptates id repellat velit eaque aspernatur expedita. Possimus itaque adipisci.</p>
           <ul class="gtco-social-icons">
             <li><a href="#"><i class="icon-facebook"></i></a></li>
@@ -130,8 +130,23 @@
       <div class="col-lg-4 col-md-4 col-sm-6 animate-box" data-animate-effect="fadeIn">
         <div class="gtco-staff">
           <img src="images/person_2.jpg" alt="Free HTML5 Templates by gettemplates.co">
-          <h3>Hush Raven</h3>
-          <strong class="role">Front-end Developer</strong>
+          <h3>Josiah Aputsa Njilo</h3>
+          <strong class="role">Member</strong>
+          <p>Quos quia provident consequuntur culpa facere ratione maxime commodi voluptates id repellat velit eaque aspernatur expedita. Possimus itaque adipisci.</p>
+          <ul class="gtco-social-icons">
+            <li><a href="#"><i class="icon-facebook"></i></a></li>
+            <li><a href="#"><i class="icon-twitter"></i></a></li>
+            <li><a href="#"><i class="icon-dribbble"></i></a></li>
+            <li><a href="#"><i class="icon-github"></i></a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="clearfix visible-sm-block"></div>
+      <div class="col-lg-4 col-md-4 col-sm-6 animate-box" data-animate-effect="fadeIn">
+        <div class="gtco-staff">
+          <img src="images/person_2.jpg" alt="Free HTML5 Templates by gettemplates.co">
+          <h3>Charles Abuga Anasi</h3>
+          <strong class="role">Member</strong>
           <p>Quos quia provident consequuntur culpa facere ratione maxime commodi voluptates id repellat velit eaque aspernatur expedita. Possimus itaque adipisci.</p>
           <ul class="gtco-social-icons">
             <li><a href="#"><i class="icon-facebook"></i></a></li>
@@ -144,8 +159,8 @@
       <div class="col-lg-4 col-md-4 col-sm-6 animate-box" data-animate-effect="fadeIn">
         <div class="gtco-staff">
           <img src="images/person_3.jpg" alt="Free HTML5 Templates by gettemplates.co">
-          <h3>Alex King</h3>
-          <strong class="role">Back-end Developer</strong>
+          <h3>Jacqueline Nyongesa</h3>
+          <strong class="role">Member</strong>
           <p>Quos quia provident consequuntur culpa facere ratione maxime commodi voluptates id repellat velit eaque aspernatur expedita. Possimus itaque adipisci.</p>
           <ul class="gtco-social-icons">
             <li><a href="#"><i class="icon-facebook"></i></a></li>
