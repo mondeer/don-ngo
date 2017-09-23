@@ -2,7 +2,7 @@
 <!--
 	Aesthetic by gettemplates.co
 	Twitter: http://twitter.com/gettemplateco
-	URL: http://gettemplates.co
+	URL: http://gettemplates.co-
 -->
 <html>
 	<head>
@@ -81,21 +81,21 @@
   						<li><a href="/about">About</a></li>
   						<li class="has-dropdown">
   							<a href="services.html">Services</a>
-  							<ul class="dropdown">
+  							{{-- <ul class="dropdown">
   								<li><a href="#">Web Design</a></li>
   								<li><a href="#">eCommerce</a></li>
   								<li><a href="#">Branding</a></li>
   								<li><a href="#">API</a></li>
   							</ul>
-  						</li>
-  						<li class="has-dropdown">
+  						</li> --}}
+  						{{-- <li class="has-dropdown">
   							<a href="#">Dropdown</a>
   							<ul class="dropdown">
   								<li><a href="#">HTML5</a></li>
   								<li><a href="#">CSS3</a></li>
   								<li><a href="#">Sass</a></li>
   								<li><a href="#">jQuery</a></li>
-  							</ul>
+  							</ul> --}}
   						</li>
   						<li><a href="portfolio.html">Portfolio</a></li>
   						<li><a href="contact.html">Contact</a></li>
@@ -106,7 +106,7 @@
   		</div>
   	</nav>
 
-  	<header id="gtco-header" class="gtco-cover" role="banner" style="background-image:url(images/chap.jpeg);">
+  	<header id="gtco-header" class="gtco-cover" role="banner" style="background-image:url(images/eye.jpg);">
   		<div class="overlay"></div>
   		<div class="gtco-container">
   			<div class="row">
@@ -164,7 +164,7 @@
 				<div class="col-md-4">
 					<div class="gtco-widget">
 						<h3>About Us</h3>
-						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore eos molestias quod sint ipsum possimus temporibus officia iste perspiciatis consectetur in fugiat repudiandae cum. Totam cupiditate nostrum ut neque ab?</p>
+						<p>Odyssey Eyecare Foundation is an NGO registered by Kenya NGOs coordination Board. It's core objective is to offer Eyecare services to the poor.It was envisaged in the year 2017. The main drive was the concern of the founding Chairman and the board members on the visual suffering of the deprived/ poor members of the society who cannot afford Eyecare services. Given that the treatment of Eye diseases and the cost implications of the spectacles, the poor members of the society are put in a disadvantaged and precarious position as a result. Odyssey Eyecare Foundation comes in to bridge the gap between the rich and the poor by ensuring Eyecare services and products are offered competitively in a very innovative manner. Some regions due to the environmental factors are more vulnerable to eye diseases due to eye diseases triggers like house flies; this is more evident  in some parts of the Rift Valley where house flies contribute to transmission of Eye diseases. Some very places in Kenya ,due to  the hot weather have also become more vulnerable to eye diseases and conditions such as cataracts. This foundations seeks to reduce this prevalence by  offering affordable and quality eye care services and products to these vulnerable poor members of the society. We are driven by our strong desire to bring about societal transformation through alleviating preventable blindness and improving visual acuity of the poor.</p>
 					</div>
 				</div>
 
@@ -185,8 +185,8 @@
 					<div class="gtco-widget">
 						<h3>Get In Touch</h3>
 						<ul class="gtco-quick-contact">
-							<li><a href="#"><i class="icon-phone"></i> +1 234 567 890</a></li>
-							<li><a href="#"><i class="icon-mail2"></i> info@gettemplates.co</a></li>
+							<li><a href="#"><i class="icon-phone"></i> +254722346902</a></li>
+							<li><a href="#"><i class="icon-mail2"></i> info@odessey.co.ke</a></li>
 							<li><a href="#"><i class="icon-chat"></i> Live Chat</a></li>
 						</ul>
 					</div>
@@ -197,8 +197,8 @@
 			<div class="row copyright">
 				<div class="col-md-12">
 					<p class="pull-left">
-						<small class="block">&copy; 2016 Free HTML5. All Rights Reserved.</small>
-						<small class="block">Designed by <a href="http://gettemplates.co/" target="_blank">GetTemplates.co</a> Demo Images: <a href="http://unsplash.co/" target="_blank">Unsplash</a></small>
+						<small class="block">&copy; 2017 Odessey. All Rights Reserved.</small>
+						{{-- <small class="block">Designed by <a href="http://gettemplates.co/" target="_blank">GetTemplates.co</a> Demo Images: <a href="http://unsplash.co/" target="_blank">Unsplash</a></small> --}}
 					</p>
 					<p class="pull-right">
 						<ul class="gtco-social-icons pull-right">

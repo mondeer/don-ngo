@@ -16,7 +16,7 @@ body {
   font-size: 16px;
   line-height: 1.7;
   color: #777;
-  background: #fff;
+  background: #24BEFF;
 }
 .imond {
   background-color: rgba(0,0,0,0.8);
@@ -466,7 +466,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: inline-block;
   zoom: 1;
   *display: inline;
-  color: #17B794;
+  color: #080E10;
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -875,7 +875,7 @@ form label {
   }
 }
 .gtco-tabs .icon-xlg i {
-  color: #17B794;
+  color: #050505;
 }
 
 #gtco-subscribe {

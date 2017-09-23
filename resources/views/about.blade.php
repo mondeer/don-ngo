@@ -27,19 +27,19 @@
       <div class="col-md-12">
         <div class="owl-carousel owl-carousel-fullwidth">
           <div class="item">
-            <img src="images/img_1.jpg" alt="Free HTML5 Bootstrap Template by GetTemplates.co">
+            <img src="images/chap.png" alt="Free HTML5 Bootstrap Template by GetTemplates.co">
           </div>
           <div class="item">
-            <img src="images/img_2.jpg" alt="Free HTML5 Bootstrap Template by GetTemplates.co">
+            <img src="images/chap.png" alt="Free HTML5 Bootstrap Template by GetTemplates.co">
           </div>
           <div class="item">
-            <img src="images/img_3.jpg" alt="Free HTML5 Bootstrap Template by GetTemplates.co">
+            <img src="images/chap.png" alt="Free HTML5 Bootstrap Template by GetTemplates.co">
           </div>
           <div class="item">
-            <img src="images/img_4.jpg" alt="Free HTML5 Bootstrap Template by GetTemplates.co">
+            <img src="images/chap.png" alt="Free HTML5 Bootstrap Template by GetTemplates.co">
           </div>
           <div class="item">
-            <img src="images/img_5.jpg" alt="Free HTML5 Bootstrap Template by GetTemplates.co">
+            <img src="images/chap.png" alt="Free HTML5 Bootstrap Template by GetTemplates.co">
           </div>
           <div class="item">
             <img src="images/img_6.jpg" alt="Free HTML5 Bootstrap Template by GetTemplates.co">
@@ -66,7 +66,7 @@
 
       <div class="col-lg-4 col-md-4 col-sm-6 animate-box" data-animate-effect="fadeIn">
         <div class="gtco-staff">
-          <img src="images/person_1.jpg" alt="Free HTML5 Templates by gettemplates.co">
+          <img src="images/chap.png" alt="image loading">
           <h3>Philip Munyao</h3>
           <strong class="role">Chairman</strong>
           <p>Quos quia provident consequuntur culpa facere ratione maxime commodi voluptates id repellat velit eaque aspernatur expedita. Possimus itaque adipisci.</p>
@@ -81,7 +81,7 @@
 
       <div class="col-lg-4 col-md-4 col-sm-6 animate-box" data-animate-effect="fadeIn">
         <div class="gtco-staff">
-          <img src="images/person_2.jpg" alt="Free HTML5 Templates by gettemplates.co">
+          <img src="images/WA0038.jpg" alt="">
           <h3>Justus Lavi Mwololo</h3>
           <strong class="role">Secretary</strong>
           <p>Quos quia provident consequuntur culpa facere ratione maxime commodi voluptates id repellat velit eaque aspernatur expedita. Possimus itaque adipisci.</p>
@@ -97,7 +97,7 @@
       <div class="clearfix visible-sm-block"></div>
       <div class="col-lg-4 col-md-4 col-sm-6 animate-box" data-animate-effect="fadeIn">
         <div class="gtco-staff">
-          <img src="images/person_3.jpg" alt="Free HTML5 Templates by gettemplates.co">
+          <img src="images/WA0040.jpg" alt="image loading">
           <h3>Hellen Nafuna</h3>
           <strong class="role">Treasurer</strong>
           <p>Quos quia provident consequuntur culpa facere ratione maxime commodi voluptates id repellat velit eaque aspernatur expedita. Possimus itaque adipisci.</p>
@@ -114,8 +114,24 @@
 
       <div class="col-lg-4 col-md-4 col-sm-6 animate-box" data-animate-effect="fadeIn">
         <div class="gtco-staff">
-          <img src="images/person_1.jpg" alt="Free HTML5 Templates by gettemplates.co">
+          <img src="images/WA0036.jpg" alt="image loading">
           <h3>Miriam Mwololo</h3>
+          <strong class="role">Member</strong>
+          <p>Quos quia provident consequuntur culpa facere ratione maxime commodi voluptates id repellat velit eaque aspernatur expedita. Possimus itaque adipisci.</p>
+          <ul class="gtco-social-icons">
+            <li><a href="#"><i class="icon-facebook"></i></a></li>
+            <li><a href="#"><i class="icon-twitter"></i></a></li>
+            <li><a href="#"><i class="icon-dribbble"></i></a></li>
+            <li><a href="#"><i class="icon-github"></i></a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="clearfix visible-lg-block visible-md-block"></div>
+
+      <div class="col-lg-4 col-md-4 col-sm-6 animate-box" data-animate-effect="fadeIn">
+        <div class="gtco-staff">
+          <img src="images/WA0041.jpg" alt="image loading">
+          <h3>Don Sabwa</h3>
           <strong class="role">Member</strong>
           <p>Quos quia provident consequuntur culpa facere ratione maxime commodi voluptates id repellat velit eaque aspernatur expedita. Possimus itaque adipisci.</p>
           <ul class="gtco-social-icons">
@@ -129,7 +145,7 @@
       <div class="clearfix visible-sm-block"></div>
       <div class="col-lg-4 col-md-4 col-sm-6 animate-box" data-animate-effect="fadeIn">
         <div class="gtco-staff">
-          <img src="images/person_2.jpg" alt="Free HTML5 Templates by gettemplates.co">
+          <img src="images/WA0034.jpg" alt="image loading">
           <h3>Josiah Aputsa Njilo</h3>
           <strong class="role">Member</strong>
           <p>Quos quia provident consequuntur culpa facere ratione maxime commodi voluptates id repellat velit eaque aspernatur expedita. Possimus itaque adipisci.</p>
@@ -144,7 +160,7 @@
       <div class="clearfix visible-sm-block"></div>
       <div class="col-lg-4 col-md-4 col-sm-6 animate-box" data-animate-effect="fadeIn">
         <div class="gtco-staff">
-          <img src="images/person_2.jpg" alt="Free HTML5 Templates by gettemplates.co">
+          <img src="images/chap.png" alt="image loading">
           <h3>Charles Abuga Anasi</h3>
           <strong class="role">Member</strong>
           <p>Quos quia provident consequuntur culpa facere ratione maxime commodi voluptates id repellat velit eaque aspernatur expedita. Possimus itaque adipisci.</p>
@@ -158,10 +174,19 @@
       </div>
       <div class="col-lg-4 col-md-4 col-sm-6 animate-box" data-animate-effect="fadeIn">
         <div class="gtco-staff">
-          <img src="images/person_3.jpg" alt="Free HTML5 Templates by gettemplates.co">
-          <h3>Jacqueline Nyongesa</h3>
+          <img src="images/WA0035.jpg" alt="image loading">
+          <h3>ST Jacqueline Nyongesa</h3>
           <strong class="role">Member</strong>
-          <p>Quos quia provident consequuntur culpa facere ratione maxime commodi voluptates id repellat velit eaque aspernatur expedita. Possimus itaque adipisci.</p>
+          <p>Sr. Jacqueline is a calm and passionate advocate of the marginalised and poor of the community
+
+Fisrt degree KU and second degree about to complete same place. Did special Needs Education.
+
+Class assistant
+Co founder St. Francis school for the Hearing Impaired in ktl
+Manager at Bake for Life Uganda
+Project coordinator
+Sensitization and assessment  volunteer in ktl west pilot and Bungoma
+Team player.</p>
           <ul class="gtco-social-icons">
             <li><a href="#"><i class="icon-facebook"></i></a></li>
             <li><a href="#"><i class="icon-twitter"></i></a></li>
